@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Claire Cahoon" # the title of your site
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Digital Pedagogy & Scholarship Specialist" # your name or organization
+name                     : "Claire Cahoon" # your name or organization
 description              : "A personal portfolio for Claire Cahoon" # a short description of your site
 url                      : https://clairecahoon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -272,8 +272,7 @@ defaults:
       comments: # true
       share: false
       related: false
-      sidebar:
-         nav: "categories"
+      sidebar: false
       toc: true
       toc_label: "On this page"
       
