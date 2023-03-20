@@ -11,15 +11,15 @@ skin    : "academic" # Minimal Mistakes: "default", "air", "aqua", "contrast", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Critical Web Design Toolkit" # the title of your site
+title                    : "Claire Cahoon" # the title of your site
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Digital Scholarship @ Bryn Mawr College" # your name or organization
-description              : "Demo site for the CWDT static-site template." # a short description of your site
-url                      : https://digbmc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /cwd-toolkit # the subpath of your site, e.g. "/blog"
-repository               : digbmc/cwd-toolkit # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : /assets/images/creature-1.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+name                     : "Digital Pedagogy & Scholarship Specialist" # your name or organization
+description              : "A personal portfolio for Claire Cahoon" # a short description of your site
+url                      : https://clairecahoon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : clairecahoon/clairecahoon.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo                     : #/assets/images/creature-1.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
