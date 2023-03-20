@@ -1,0 +1,43 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "GitHub"
+    url: https://github.com/digbmc/ds-project
+  - title: "Feedback"
+    url: /feedback/
+
+# sidebar links
+categories:
+  - title: "Welcome"
+    children:
+      - title: "Why Use this Toolkit?"
+        url: /toolkit/
+      - title: "Sample Project 1"
+        url: /sample-single/
+      - title: "Sample Project 2"
+        url: /sample-splash/
+  - title: "Getting Started"
+    children:
+      - title: "1. Installation"
+        url: /how-to/installation/
+      - title: "2. Configuration"
+        url: /how-to/configuration/
+      - title: "3. Adding Content"
+        url: /how-to/adding-content/
+      - title: "4. Navigation"
+        url: /how-to/navigation/
+  - title: "How-To"
+    children:
+      - title: "Formatting Text with Markdown"
+        url: /how-to/markdown/
+      - title: "Images"
+        url: /how-to/images/
+      - title: "Embedded Content"
+        url: /how-to/embedded-content/
+      - title: "Bibliography"
+        url: /how-to/bibliography/
+      - title: "Colors and Fonts"
+        url: /how-to/colors-and-fonts/
